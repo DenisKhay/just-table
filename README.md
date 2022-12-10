@@ -1,1 +1,1 @@
-# just-table
+# Table component
